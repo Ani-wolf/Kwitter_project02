@@ -6,7 +6,7 @@ html, body
 
 body
 {
-background-image: linear-gradient(to right top, #927c1b,#3b3206 );
+background-image: linear-gradient(to right top, #ff9966, #ff5e62 );
 }
 
 .header
@@ -64,7 +64,7 @@ background-image: linear-gradient(to right top, #927c1b,#3b3206 );
 
 .input_div_message_page
 {
-	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+	position: fixed;bottom: 0px;width: 100%;background: rgba1(65, 55, 253, 1);
 }
 .input_div_message_page label
 {
